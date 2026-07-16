@@ -105,7 +105,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-Add screenshots inside the **screenshots** folder.
+
 
 Example:
 
